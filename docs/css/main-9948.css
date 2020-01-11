@@ -1,0 +1,12 @@
+.app-header{align-items:flex-end;flex-wrap:wrap}.app-header h1{flex-grow:1}.app-header h2{font-size:1.2rem;color:grey}
+
+.search-input{width:auto;flex-grow:1;margin-right:3px}
+
+.todo-list-item{font-size:1.25rem}.todo-list-item.done .todo-list-item__label{text-decoration:line-through}.todo-list-item.important .todo-list-item__label{font-weight:bold;color:steelblue}.todo-list-item button{width:35px;margin:3px}.todo-list-item__label{display:inline-block;max-width:280px;line-height:35px;cursor:pointer;user-select:none}
+
+.todo-list .list-group-item{padding:0.25rem 0.75rem}
+
+.item-add-form{margin-top:10px}
+
+.todo-app{margin:2rem auto 0 auto;max-width:400px}.top-panel{margin:1rem 0}
+
