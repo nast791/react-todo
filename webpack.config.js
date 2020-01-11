@@ -4,11 +4,11 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = {
-  mode: "production",
+  mode: "development", // development/production
   devtool: 'source-map',
   devServer: {
     port: 8080, // http://localhost:8080/
-    contentBase: './docs',
+    // contentBase: './docs',
   },
   entry: './src/index.js',
   output: {
