@@ -6,7 +6,7 @@
 
 .todo-list .list-group-item{padding:0.25rem 0.75rem}
 
-.item-add-form{margin-top:10px}
+.item-add-form{margin-top:10px}.item-add-form input{margin-right:3px}
 
 .todo-app{margin:2rem auto 0 auto;max-width:400px}.top-panel{margin:1rem 0}
 
